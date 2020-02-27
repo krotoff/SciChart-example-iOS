@@ -18,31 +18,14 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>UIApplicationSceneManifest</key>
-	<dict>
-		<key>UIApplicationSupportsMultipleScenes</key>
-		<false/>
-		<key>UISceneConfigurations</key>
-		<dict>
-			<key>UIWindowSceneSessionRoleApplication</key>
-			<array>
-				<dict>
-					<key>UISceneConfigurationName</key>
-					<string>Default Configuration</string>
-					<key>UISceneDelegateClassName</key>
-					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
-				</dict>
-			</array>
-		</dict>
-	</dict>
+	<key>SciChartLicenseKey</key>
+	<string>QM7PUIaBDs1DFGWnnJJqpimX4gnkklpUH0MwRLAONnlLIOeDj73IKo2oxZpL2+d1pbzGcGbLs3ZalTl5wlTSdMI5xNH5chFbEZT12c6tSa/BWXwVQmYdzU64ZtosvDGeLhM1z+6KgXDhRoojCGTp+fH7fdNeVA8h4GvVOGVMI+XPvLBjAufbG6N8ahd913kdiRlzjgo8CwXdfOc8v6HfgO60YwqtFQzpdHVyxF/r2i76cvIeR2eVpYV0A/mQP9PbrPECzNUZYpHt1t7fkfccz3UR3paXe4nvGZGMMYs7QKXNIAxl+Xo89jW/w/7OPZO9Tfl+PlZgwPQFh03w+C5UJ5vHOkEOWd4yojjgIcUyVyZ/CJr4WJ/KVZS+Pzab5xH1agMukLehk37JdNLt/5ytIaMpDbLDLRu4ehQbVYWwkCipJloX4zorZHfmnZC8b57Pzj8Il5IQjciLF2LTQkl2MlyHbxjzUiqd9LWOjxABI59VUlmSTz47PZ0lskQVmJ3MRekClVpA1Op/T/Z2OSyUaZJuZN0s8mbAeIehlGZ7Helu/FsUyaj6TAM1eoXfNp4=</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
-	<key>UIMainStoryboardFile</key>
-	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
